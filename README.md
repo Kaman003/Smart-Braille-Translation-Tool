@@ -25,6 +25,7 @@ This project enables Braille translation using an **Arduino Uno-based push-butto
 
 ## Contributors
 - **Vijay Shivannagol** - Developer
+- **Shrushti Kamanache** - Developer
 - **Prof. Shahak Patil** - Project Guide
 
 ## License
